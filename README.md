@@ -76,8 +76,9 @@ A real-time chat application built with *Flask, **WebSocket, and **SQLite*. Feat
 
 
 Demo 🎥
-(![Image](https://github.com/user-attachments/assets/6b675544-82bd-4825-be4c-777bf0110ea3))
-Chat Demo
+Chat Demo:
+![Image](https://github.com/user-attachments/assets/6b675544-82bd-4825-be4c-777bf0110ea3)
+
 
 ## Folder Structure 📂  
 ```  

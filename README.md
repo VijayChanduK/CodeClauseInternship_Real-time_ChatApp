@@ -31,7 +31,7 @@ A real-time chat application built with *Flask, **WebSocket, and **SQLite*. Feat
 ### Steps
 1. *Clone the repository*:
    ```bash
-   git clone https://github.com/yourusername/RealTimeChat.git
+   git clone https://github.com/VijayChanduK/CodeClauseInternship_Real-time_ChatApp.git
    cd RealTimeChat
 Install dependencies:
 

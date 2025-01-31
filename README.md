@@ -67,20 +67,22 @@ Demo 🎥
 Chat Demo (Replace with your demo GIF)
 
 
-Folder Structure 📂
-Copy
-RealTimeChat/
-├── app.py
-├── requirements.txt
-├── instance/
-│   └── chat.db
-├── static/
-│   ├── script.js
-│   └── styles.css
-└── templates/
-    ├── index.html
-    ├── login.html
-    └── register.html
+## Folder Structure 📂  
+```  
+Copy RealTimeChat/  
+├── app.py  
+├── requirements.txt  
+├── instance/  
+│   └── chat.db  
+├── static/  
+│   ├── script.js  
+│   └── styles.css  
+└── templates/  
+    ├── index.html  
+    ├── login.html  
+    └── register.html  
+```  
+
 Contributing 🤝
 Fork the repository.
 

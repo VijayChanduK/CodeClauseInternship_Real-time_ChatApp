@@ -28,40 +28,52 @@ A real-time chat application built with *Flask, **WebSocket, and **SQLite*. Feat
 - Python 3.10+
 - pip
 
-### Steps
-1. *Clone the repository*:
-   ```bash
-   git clone https://github.com/VijayChanduK/CodeClauseInternship_Real-time_ChatApp.git
-   cd RealTimeChat
-Install dependencies:
 
-bash
-Copy
-pip install -r requirements.txt
-Initialize the database:
 
-bash
-Copy
-flask shell
->>> db.create_all()
->>> exit()
-Run the application:
+### Steps  
 
-bash
-Copy
-python app.py
-Open http://localhost:5000 in your browser.
+1. **Clone the repository**:  
+   Run the following command:  
+   git clone https://github.com/yourusername/RealTimeChat.git  
+   Then navigate to the project directory:  
+   cd RealTimeChat  
 
-Usage 🖥
-Register: Create an account via /register.
+2. **Install dependencies**:  
+   Run the following command:  
+   pip install -r requirements.txt  
 
-Login: Use your credentials at /login.
+3. **Initialize the database**:  
+   Run the following commands one by one:  
+   flask shell  
+   >>> db.create_all()  
+   >>> exit()  
 
-Chat: Send messages in real-time.
+4. **Run the application**:  
+   Run the following command:  
+   python app.py  
 
-Rooms: Default room is general (custom rooms can be added).
+5. **Open the application**:  
+   Open [http://localhost:5000](http://localhost:5000) in your browser.  
 
-Logout: Click the logout link in the chat interface.
+
+
+## Usage 🖥
+
+1. **Register**:  
+   - Create an account via `/register`.
+
+2. **Login**:  
+   - Use your credentials at `/login`.
+
+3. **Chat**:  
+   - Send messages in real-time.
+
+4. **Rooms**:  
+   - The default room is `general` (custom rooms can be added).
+
+5. **Logout**:  
+   - Click the logout link in the chat interface.
+
 
 Demo 🎥
 Chat Demo (Replace with your demo GIF)

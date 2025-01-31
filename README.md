@@ -94,14 +94,3 @@ Copy RealTimeChat/
     ├── login.html  
     └── register.html  
 ```  
-
-Contributing 🤝
-Fork the repository.
-
-Create a branch: git checkout -b feature/your-feature.
-
-Commit changes: git commit -m "Add your feature".
-
-Push to the branch: git push origin feature/your-feature.
-
-Open a pull request.
